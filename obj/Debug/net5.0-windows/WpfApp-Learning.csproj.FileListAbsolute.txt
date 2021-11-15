@@ -5,12 +5,10 @@ C:\Users\andre.nguyen\source\repos\WpfApp-Learning\bin\Debug\net5.0-windows\WpfA
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\bin\Debug\net5.0-windows\WpfApp-Learning.dll
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\bin\Debug\net5.0-windows\ref\WpfApp-Learning.dll
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\bin\Debug\net5.0-windows\WpfApp-Learning.pdb
-C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\WpfApp-Learning.csproj.AssemblyReference.cache
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\MainWindow.g.cs
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\App.g.cs
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\WpfApp-Learning_MarkupCompile.cache
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\WpfApp-Learning_MarkupCompile.lref
-C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\MainWindow.baml
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\WpfApp-Learning.g.resources
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\WpfApp-Learning.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\WpfApp-Learning.AssemblyInfoInputs.cache
@@ -20,3 +18,5 @@ C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\WpfA
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\ref\WpfApp-Learning.dll
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\WpfApp-Learning.pdb
 C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\WpfApp-Learning.genruntimeconfig.cache
+C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\andre.nguyen\source\repos\WpfApp-Learning\obj\Debug\net5.0-windows\WpfApp-Learning.csproj.AssemblyReference.cache

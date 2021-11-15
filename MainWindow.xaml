@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp_Learning"
         mc:Ignorable="d"
-        Title="Names" Height="180" Width="260">
-    <Grid Margin="10">
+        Icon="Icon.ico"
+        Title="Names" Height="300" Width="300">
+    <Grid Name="pnlMainGrid" MouseUp="pnlMainGrid_MouseUp" Margin="10">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
@@ -16,7 +17,6 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
-
         </Grid.ColumnDefinitions>
 
         <Label>Names</Label>
@@ -24,10 +24,8 @@
 
         <StackPanel Grid.Row="1" Grid.Column="1" Margin="5,0,0,0">
             <TextBox x:Name="txtName" />
-            <Button x:Name="btnAdd" Margin="0,5,0,0" Click="ButtonAddName"> Add Name</Button>
-
+            <Button x:Name="btnAdd" Margin="0,5,0,0" Click="ButtonAddName">Add Name</Button>
         </StackPanel>
-        
-        
+
     </Grid>
 </Window>
